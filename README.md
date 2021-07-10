@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryan-shnitman
 - 👀 I’m interested in data-oriented computing
-- 🌱 I’m currently learning Neural Networks
-- 💞️ I’m looking to collaborate on really anything!
+- 🌱 I’m currently learning RNN's and Time Series Modelling
+- 💞️ I’m looking to collaborate on cool machine learning projects!
 - 📫 How to reach me: shoot me an email at rshnitman@gmail.com
 
 <!---
